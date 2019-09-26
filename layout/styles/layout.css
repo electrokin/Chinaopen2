@@ -429,7 +429,7 @@ table a, #comments a{background-color:inherit;}
 	#header{}
 
 	#navwrapper #mainav{width:80%; padding:15px 0 0 0;}
-	#navwrapper #mainav ul{display:none;}
+	
 	#navwrapper #mainav form{display:block;}
 
 	#breadcrumb{}
@@ -453,7 +453,7 @@ table a, #comments a{background-color:inherit;}
 	#header{}
 
 	#navwrapper{padding:0 20px;}
-	#navwrapper #searchform{display:none;}/* Needs modifying if the form is required in small viewports */
+
 	#navwrapper #mainav{float:none; width:100%; padding:15px 0;}
 
 	#pageintro article{max-width:none;}
